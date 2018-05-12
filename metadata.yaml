@@ -1,0 +1,40 @@
+_repo: A-Hero-of-Romance_38160
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Copping, Harold
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '34675'
+    url: http://www.gutenberg.org/2009/agents/34675
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marsh, Richard
+    aliases:
+    - Heldmann, Bernard
+    - Heldman, Richard Bernard
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '1718'
+    url: http://www.gutenberg.org/2009/agents/1718
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Marsh_%28author%29
+description: ''
+gutenberg_issued: '2011-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schoolboys -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Runaway children -- Fiction'
+- !lcc 'PR'
+title: A Hero of Romance
+url: http://www.gutenberg.org/ebooks/38160
